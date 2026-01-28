@@ -1,3 +1,10 @@
+
+# This project is archived.
+
+Use the null-coalescing operator (`$array['key'] ?? 'fallback'`) instead. This
+project is no longer maintained and no guarantees for security and stability are
+given anymore.
+
 # Safe array reading
 
 Normally, this should not be something you need, because you don't know how to do it. If you don't know how to read
